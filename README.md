@@ -17,7 +17,7 @@
 
 <p align="center">
   <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=kakbar&style=flat-square&color=blue" alt="">
+  <img src="https://riri.prixacdn.net/outputs/362b6380-8464-11ee-8f18-d85ed3052600.svg" alt="">
 </p>
 
 <p align="center">
@@ -27,9 +27,10 @@
 ### :man_technologist: &nbsp;About Me :
 I'm Roviso Dominator, a friendly ML Developer from Nepal with a deep interest in AI 💻.
 
-- 🔭 Software Engineer contributing to frontend and backend for building web applications.
-- 🌱 Exploring Technical Content Writing.
-- ⚡ In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- 🔭 Currently working as an ML Engineer at Prixa Technologies, leading various projects implementing LLMs and generative models to enhance content personalization and user engagement.
+- 🚀 Experienced in designing and deploying AI models in production using cloud services like PaperSpace, AWS, and Google Cloud.
+- 🌐 Skilled in integrating advanced AI features into web applications using FastAPI and developing robust data pipelines for AI model training.
+- 📚 Passionate about Speech-Based Technologies and finding new ways to weave machine learning into the fabric of our daily lives.
 - 📫 Reach me at: [![Linkedin Badge](https://img.shields.io/badge/-ravi-prajapati-2b7422149-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ravi-prajapati-2b7422149)
 
 <p align="center">
@@ -45,11 +46,28 @@ I'm Roviso Dominator, a friendly ML Developer from Nepal with a deep interest in
 ---
 
 ### 🛠 &nbsp;Languages and Tools :
-<!-- Icons for languages and tools -->
 <p>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>&nbsp;
-  <!-- Add more icons as needed -->
+  <!-- Python -->
+  <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" width="40" height="40"/>&nbsp;
+  <!-- PyTorch -->
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>&nbsp;
+  <!-- Machine Learning -->
+  <img src="https://img.icons8.com/ios-filled/50/000000/machine-learning.png" alt="Machine Learning" width="40" height="40"/>&nbsp;
+  <!-- AI -->
+  <img src="https://img.icons8.com/ios-filled/50/000000/artificial-intelligence.png" alt="AI" width="40" height="40"/>&nbsp;
+  <!-- FastAPI -->
+  <img src="https://www.vectorlogo.zone/logos/fastapi/fastapi-icon.svg" alt="FastAPI" width="40" height="40"/>&nbsp;
+  <!-- AWS -->
+  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" width="40" height="40"/>&nbsp;
+  <!-- JavaScript -->
+  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <!-- HTML5 -->
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" width="40" height="40"/>&nbsp;
+  <!-- CSS3 -->
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="40" height="40"/>&nbsp;
+  <!-- Git -->
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/>&nbsp;
+  <!-- More tools and languages as needed -->
 </p>
 
 ### 🔥 &nbsp;My Stats :
